@@ -444,7 +444,7 @@ export function Analytics({ report = false }: { report?: boolean }) {
           {show && (
             <section className="card print-report">
               <div className="report-brand">
-                <img src="/mark.svg" alt="" /> CanteenIQ
+                <img src="./mark.svg" alt="" /> CanteenIQ
               </div>
               <h2>Food waste performance report</h2>
               <p>

@@ -177,7 +177,7 @@ export default function App() {
         )}
         <aside className={"sidebar " + (sidebar ? "open" : "")}>
           <div className="brand">
-            <img src="/mark.svg" alt="" />
+            <img src="./mark.svg" alt="" />
             <span>
               Canteen<span>IQ</span>
             </span>

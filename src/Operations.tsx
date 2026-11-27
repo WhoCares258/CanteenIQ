@@ -118,7 +118,7 @@ export function Overview() {
             </button>
           )}
         </div>
-        <img alt="" src="/canteen.svg" />
+        <img alt="" src="./canteen.svg" />
       </section>
       {(tomorrow || plan.confirmed) && (
         <section className="card">
@@ -252,7 +252,7 @@ export function Forecast() {
           </h2>
           <p>Plan service for {vendors[0]} using the suggested quantities.</p>
         </div>
-        <img alt="" src="/canteen.svg" />
+        <img alt="" src="./canteen.svg" />
       </section>
       <section className="card">
         <div className="card-head">
